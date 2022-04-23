@@ -7,12 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project will be a productivity site that will reward the user with clothes and other items to give to their very own little chibi pet and other awards. 
 ### Features
-Include Features here
+Pomodoro timer
+Chibi pets
+User Login
+
+
 ### Technologies
-Include Technologies here
+Javascrpit
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Some Graphic Design 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/39alLElz/capstone
